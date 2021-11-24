@@ -11,3 +11,5 @@ Neuroticism: This trait usually describes a person to have mood swings and has e
 
 Download the Big Five Personality Test data from Kaggle:
 https://www.kaggle.com/tunguz/big-fiv...
+
+Project Report: https://drive.google.com/drive/folders/1aib7z87_4stzG-0aO0EOSS7acfVf4mta
