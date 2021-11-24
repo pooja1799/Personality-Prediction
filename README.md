@@ -10,6 +10,6 @@ Agreeableness: It is a quality that analyses the individual behavior based on th
 Neuroticism: This trait usually describes a person to have mood swings and has extreme expressive power.
 
 Download the Big Five Personality Test data from Kaggle:
-https://www.kaggle.com/tunguz/big-fiv...
+https://www.kaggle.com/tunguz/big-five-personality-test
 
 Project Report: https://drive.google.com/drive/folders/1aib7z87_4stzG-0aO0EOSS7acfVf4mta
